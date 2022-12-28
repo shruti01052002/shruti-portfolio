@@ -70,7 +70,7 @@ const Projects = () => {
                     <div className="vl"></div>
                     <div className="edu">
                         <div className="half">
-                            <h1 className="my_ed">Projects</h1>
+                            <h1 className="my_ed">My Projects</h1>
                             <div className="edu_cont">
                                 <Fade top>
                                     <div className="cont">

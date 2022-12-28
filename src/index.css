@@ -376,13 +376,18 @@ a:hover {
 }
 
 @media screen and (max-width: 500px) {
+  .proj_div {
+    display: block;
+    padding: 20px 20px 20px 20px;
+  }
   .made_with {
-    font-size: 20px;
+    padding-top: 12px;
+    font-size: 15px;
   }
 
   .foot_style {
-    height: 80px;
-    padding: 30px 30px 30px 30px;
+    height: 40px;
+    padding: 20px 20px 20px 20px;
   }
 
   .phnview {
@@ -448,11 +453,12 @@ a:hover {
 
   .about_div {
     background-image: none;
+    padding-top: 60px;
   }
 
   .cols_div {
     width: 100%;
-    margin-right: 40px;
+    /* margin-right: 30px; */
   }
 
   .break {
@@ -468,7 +474,9 @@ a:hover {
   }
 
   .about_div {
-    margin-top: 70px;
+    /* margin-top: 70px; */
+    /* padding: 30px 30px 30px 30px; */
+    margin: 30px 60px 30px 0px ;
   }
 
   .shr_img {
@@ -484,9 +492,9 @@ a:hover {
 }
 
 @media screen and (max-width: 750px) {
-  #para2 {
+  /* #para2 {
     display: none;
-  }
+  } */
 
   .about_div {
     background-size: 100% 75%;
