@@ -36,7 +36,7 @@ const Connect = () => {
         <section id="contact">
             <div className="phnview">
                 <h1 className="connect1">Connect With Me</h1>
-                <div style={{ paddingLeft: '50px' }}>
+                <div style={{ paddingLeft: '50px', paddingRight:'50px'}}>
                     <h2 className="email">Email:</h2>
                     <a href="mailto:shrutiyadav26072002@gmail.com" target={tar}><h3 className="gmail">shrutiyadav26072002@gmail.com</h3></a>
                     <h2 className="email">Socials:</h2>

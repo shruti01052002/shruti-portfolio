@@ -22,7 +22,6 @@ html {
 
 .phnview {
   padding-bottom: 70px;
-  padding: 30px 30px 30px 30px;
 }
 
 code {
@@ -35,18 +34,19 @@ code {
   color: #e6cbbb;
   text-align: center;
   height: 100px;
-  margin-top: none;
-  padding-top: none;
   overflow-x: hidden;
   width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .made_with {
-  padding-top: 25px;
+  /* padding-top: 25px; */
   margin-top: 0;
   font-family: 'Andika', sans-serif;
   font-weight: 400;
-  font-size: 30px;
+  font-size: 25px;
 }
 
 nav {
@@ -316,19 +316,19 @@ nav {
 }
 
 .skills {
-  padding-top: 50px;
+  /* padding-top: 50px; */
   background-color: #e6cbbb;
-  padding-left: 20px;
+  /* padding-left: 20px; */
   padding-bottom: 40px;
   overflow-x: hidden;
   width: 100%;
 }
 
 .skill_row {
-  display: flex;
+  /* display: flex; */
   margin-top: -60px;
-  padding-left: 20px;
-  padding-right: 20px;
+  /* padding-left: 20px;
+  padding-right: 20px; */
 }
 
 .shr_img {
@@ -381,19 +381,28 @@ a:hover {
     padding: 20px 20px 20px 20px;
   }
   .made_with {
-    padding-top: 12px;
+    /* padding-top: 12px; */
+    text-align: center;
     font-size: 15px;
   }
-
+  .my_ed{
+    padding-left: 20px;
+  }
   .foot_style {
-    height: 40px;
-    padding: 20px 20px 20px 20px;
+    height: 80px;
+    overflow: hidden;
+    text-align: center;
+    display: flex;
+  justify-content: center;
+  align-items: center;
   }
 
   .phnview {
     display: block;
   }
-
+  .half {
+    padding-right: 30px;
+  }
   .skill_col {
     width: 50%;
     padding-top: 40px;
@@ -418,7 +427,6 @@ a:hover {
 
   .skills {
     width: 100%;
-    padding: 30px 30px 30px 30px;
   }
 
   .edu {
@@ -492,9 +500,9 @@ a:hover {
 }
 
 @media screen and (max-width: 750px) {
-  /* #para2 {
+  #para2 {
     display: none;
-  } */
+  }
 
   .about_div {
     background-size: 100% 75%;
@@ -530,7 +538,6 @@ a:hover {
   .tech {
     font-size: small;
   }
-
   .connect {
     font-size: 25px;
   }
