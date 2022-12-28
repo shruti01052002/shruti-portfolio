@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/shruti-portfolio/static/css/main.5c5e65f8.css",
+    "main.js": "/shruti-portfolio/static/js/main.a5f57e15.js",
+    "static/media/shr.png": "/shruti-portfolio/static/media/shr.4125ef5d29c494fc6407.png",
+    "static/media/yadav.png": "/shruti-portfolio/static/media/yadav.4573997bfe7c96a100d2.png",
+    "static/media/bg.png": "/shruti-portfolio/static/media/bg.c4bad85a62c57eafd65d.png",
+    "static/media/codechef.png": "/shruti-portfolio/static/media/codechef.c13f3d35325a7ad98d59.png",
+    "static/media/geeks.png": "/shruti-portfolio/static/media/geeks.fef2b6a7f8b679aa7c50.png",
+    "static/media/codeforces.png": "/shruti-portfolio/static/media/codeforces.512aa53c2b1b9cc24d0b.png",
+    "static/media/leetcode.png": "/shruti-portfolio/static/media/leetcode.8e87115829f43f3c5ea0.png",
+    "static/media/chat.png": "/shruti-portfolio/static/media/chat.2dc11f8420748ff233fc.png",
+    "static/media/hackerrank.png": "/shruti-portfolio/static/media/hackerrank.e6b451babf358ea0fd9e.png",
+    "static/media/git.png": "/shruti-portfolio/static/media/git.11a996aeccf471458cc6.png",
+    "static/media/line2.png": "/shruti-portfolio/static/media/line2.fd9583b7c56c28ff7375.png",
+    "static/media/slick.svg": "/shruti-portfolio/static/media/slick.2630a3e3eab21c607e21.svg",
+    "index.html": "/shruti-portfolio/index.html",
+    "static/media/slick.eot": "/shruti-portfolio/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/shruti-portfolio/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/shruti-portfolio/static/media/slick.295183786cd8a1389865.woff",
+    "main.5c5e65f8.css.map": "/shruti-portfolio/static/css/main.5c5e65f8.css.map",
+    "main.a5f57e15.js.map": "/shruti-portfolio/static/js/main.a5f57e15.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c5e65f8.css",
+    "static/js/main.a5f57e15.js"
+  ]
+}
