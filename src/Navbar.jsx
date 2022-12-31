@@ -23,11 +23,11 @@ const Navbar = () => {
                 <button onClick={toggleNav} style={{ backgroundColor: "#30231d", border: 'none', float: 'right' }} className='btn'><MenuIcon style={{ backgroundColor: '#30231d', padding: '10px 15px 10px ', color: 'white', position: 'relative' }} /></button>
                 {(toggleMenu || screenWidth > 500) && (
                     <ul className="list">
-                        <li className="items"><HashLink smooth to="/#about" >About</HashLink></li>
-                        <li className="items"><HashLink smooth to="/#projects" >Projects</HashLink></li>
-                        <li className="items"><HashLink smooth to="/#skills">Skills</HashLink></li>
-                        <li className="items"><HashLink smooth to="/#profiles">Profiles</HashLink></li>
-                        <li className="items"><HashLink smooth to="/#contact">Contact</HashLink></li>
+                        <li className="items"><HashLink smooth to="#about" >About</HashLink></li>
+                        <li className="items"><HashLink smooth to="#projects" >Projects</HashLink></li>
+                        <li className="items"><HashLink smooth to="#skills">Skills</HashLink></li>
+                        <li className="items"><HashLink smooth to="#profiles">Profiles</HashLink></li>
+                        <li className="items"><HashLink smooth to="#contact">Contact</HashLink></li>
                     </ul>
                 )}
             </nav>
